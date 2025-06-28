@@ -26,16 +26,6 @@ Este proyecto forma parte de mi proceso de aprendizaje, para entender cómo mane
 
 ---
 
-## 🗂️ Estructura del proyecto
-
-- `main.cpp`: Código principal del juego
-- `Jugador.hpp/.cpp`: Clase para manejar el jugador
-- `Obstaculo.hpp/.cpp`: Clase para los cuadrados aleatorios
-- `resources.rc`: Ícono del ejecutable
-- `icono.png`: Ícono que se usa dentro de la ventana SFML
-
----
-
 ## 🚀 Cómo correrlo
 
 Necesitás tener SFML 2.5+ configurado en tu entorno de desarrollo.
